@@ -22,12 +22,11 @@ FaceRecognitionAttendance/
 
 ### 1. Install Dependencies
 
-```bash
 pip install opencv-python face-recognition numpy
 ```
 
 > **Note:** You may also need to install `dlib` which is required by `face_recognition`. Use:
-```bash
+
 pip install dlib
 ```
 
@@ -43,7 +42,6 @@ known_faces/
 
 ### 3. Run the Program
 
-```bash
 python attendance.py
 ```
 
@@ -67,4 +65,4 @@ JOHN_DOE,13:06:01
 
 ---
 
-Built with ❤️ for educational purposes.
+Built for educational purposes.
