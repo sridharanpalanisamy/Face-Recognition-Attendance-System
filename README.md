@@ -1,4 +1,4 @@
-# Face Recognition Attendance System 🧠🎓
+# Face Recognition Attendance System
 
 This is a simple real-time **Face Recognition Attendance System** built using Python, OpenCV, and the `face_recognition` library.
 
