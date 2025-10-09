@@ -1,6 +1,6 @@
 # Face Recognition Attendance System
 
-This is a simple real-time **Face Recognition Attendance System** built using Python, OpenCV, and the `face_recognition` library.
+This is a simple real-time **Face Recognition Attendance System** built using Python, OpenCV, and the face_recognition library.
 
 ## 📌 Features
 
