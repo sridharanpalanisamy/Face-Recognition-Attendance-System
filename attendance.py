@@ -4,6 +4,7 @@ import face_recognition
 import os
 from datetime import datetime
 
+
 # Load known face images
 path = 'known_faces'
 images = []
