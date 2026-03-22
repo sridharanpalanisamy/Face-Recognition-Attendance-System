@@ -45,6 +45,7 @@ known_faces/
 python attendance.py
 ```
 - The webcam will open and start detecting faces.
+
 - If a known face is detected, it will be marked in `attendance.csv` with the current time.
 
 ## 📁 Sample Output
