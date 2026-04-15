@@ -64,5 +64,4 @@ JOHN_DOE,13:06:01
 - Display real-time analytics
 
 ---
-
 Built for educational purposes.
