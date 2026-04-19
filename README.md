@@ -7,6 +7,7 @@ This is a simple real-time **Face Recognition Attendance System** built using Py
 - Detects and recognizes known faces from webcam
   
 - Automatically logs attendance to a CSV file
+  
 - Lightweight and easy to use
 - Uses face embeddings for high accuracy
 
