@@ -43,7 +43,6 @@ known_faces/
 ```
 
 ### 3. Run the Program
-
 python attendance.py
 ```
 - The webcam will open and start detecting faces.
