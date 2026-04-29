@@ -53,7 +53,9 @@ python attendance.py
 
 ```
 Name,Time
+
 SRIDHAR,13:05:22
+
 JOHN_DOE,13:06:01
 ```
 
