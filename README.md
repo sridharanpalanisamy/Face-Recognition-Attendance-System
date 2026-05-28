@@ -18,7 +18,9 @@ This is a simple real-time **Face Recognition Attendance System** built using Py
 FaceRecognitionAttendance/
 ├── attendance.py         # Main script
 ├── attendance.csv        # CSV file that logs attendance
-└── known_faces/          # Folder for known face images (e.g., sridhar.jpg)
+└── known_faces/          # Folder for
+
+known face images (e.g., sridhar.jpg)
 ```
 
 ## 🚀 How to Run
