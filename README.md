@@ -28,6 +28,7 @@ known face images (e.g., sridhar.jpg)
 ### 1. Install Dependencies
 
 pip install opencv-python face-recognition numpy
+
 ```
 
 > **Note:** You may also need to install `dlib` which is required by `face_recognition`. Use:
