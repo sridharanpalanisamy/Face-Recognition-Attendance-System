@@ -31,7 +31,8 @@ pip install opencv-python face-recognition numpy
 
 ```
 
-> **Note:** You may also need to install `dlib` which is required by `face_recognition`. Use:
+> **Note:**
+You may also need to install `dlib` which is required by `face_recognition`. Use:
 
 pip install dlib
 ```
